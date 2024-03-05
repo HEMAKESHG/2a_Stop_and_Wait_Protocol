@@ -39,6 +39,12 @@ while True:
 ```
 ## OUTPUT
 
+## Client output:
+![Screenshot 2024-03-05 200119](https://github.com/HEMAKESHG/2a_Stop_and_Wait_Protocol/assets/144870552/9b36a496-efe2-462a-8df7-69cc7ee8d242)
+
+## Server output:
+![Screenshot 2024-03-05 200152](https://github.com/HEMAKESHG/2a_Stop_and_Wait_Protocol/assets/144870552/c46b068f-bc78-42ac-869c-dc0aa4326663)
+
 
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed.
